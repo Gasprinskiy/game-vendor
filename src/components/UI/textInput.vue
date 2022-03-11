@@ -62,6 +62,7 @@ export default {
             width: 1%;
             font-size: 20px;
             margin-right: 10px;
+            min-width: 16px;
         }
         input {
             width: 99%;
