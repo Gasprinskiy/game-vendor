@@ -18,8 +18,9 @@ export default {}
         width: 100%;
         .input {
           border: 1px solid $content300;
-          border-radius: 8px;
+          border-radius: $radius8;
           background-color: $base-white; 
+          
         }
         .label {
             font-size: 14px;
